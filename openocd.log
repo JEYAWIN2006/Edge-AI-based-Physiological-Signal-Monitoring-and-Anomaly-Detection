@@ -1,0 +1,57 @@
+set log_output to "openocd.log"
+riscv.cpu halted due to debug-request.
+riscv.cpu halted due to debug-request.
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: dmi_scan failed jtag scan
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: failed jtag scan: -4
+Error: [riscv.cpu] Failed DMI read at 0x11; status=2
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: libusb_handle_events() failed with LIBUSB_ERROR_IO
+Error: unable to purge ftdi rx buffers: LIBUSB_ERROR_IO
+Error: error while flushing MPSSE queue: -4
+Error: [riscv.cpu] dtmcontrol scan failed, error code = -4
+Error: [riscv.cpu] Could not read dtmcontrol. Check JTAG connectivity/board power.
+Error: [riscv.cpu] Examination failed
+Error: Target not examined yet
+Error: [riscv.cpu] not halted (gdb fileio)
+Error: Target not examined yet
+Error: Target not examined yet
+Error: Target not examined yet
+Error: Target not examined yet
+Error: Target not examined yet
+Error: Target not examined yet
+shutdown command invoked
